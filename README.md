@@ -1,0 +1,1 @@
+This repository demonstrates a simple Python function that can lead to a ZeroDivisionError. This type of error isn't always easy to spot; a seemingly innocuous function can throw this exception if its inputs aren't properly checked.  The solution provides a robust way of avoiding this exception.
